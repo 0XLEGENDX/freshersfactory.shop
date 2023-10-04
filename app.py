@@ -13,7 +13,3 @@ def register():
     
     
     return render_template("form1.html")
-
-if __name__ == '__main__':
-
-	app.run()
